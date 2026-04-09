@@ -1,2 +1,12 @@
-# Pizza-sales-analysis
-Pizza Sales Analysis using SQL &amp; Power BI
+# 🍕 Pizza Sales Analysis
+
+## 📊 Tools Used
+- MySQL
+- Power BI
+
+## 📈 Key Insights
+- Peak order hours
+- Top 5 pizzas
+- Daily & cumulative revenue
+
+## 📷 Dashboard Preview
