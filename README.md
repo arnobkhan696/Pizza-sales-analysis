@@ -15,4 +15,4 @@
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Screenshot 2026-04-09 190411.png)
+![Dashboard](dashboard.png)
